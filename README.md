@@ -1,5 +1,5 @@
-# Selenium
-<p><h1>Things You can Do with selenium is HERE.......</h1></p>
+# Selenium - Things You can Do with selenium is HERE.......
+
 <p>
 <h2>To Install the dependencies</h2>
 <ol type='1'>
